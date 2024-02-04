@@ -2,6 +2,31 @@
 
 **OpenWeatherAPI** é um aplicativo em Flutter e Dart que utiliza a API OpenWeatherMap para criar um aplicativo de previsão do tempo. O aplicativo apresenta uma tela inicial com informações meteorológicas atuais e permite aos usuários acessar detalhes de cada previsão.
 
+### Sobre a API ⚙️
+A OpenWeatherMap API fornece acesso a dados meteorológicos e informações relacionadas. Aqui está um resumo básico dos principais conceitos e recursos dessa API:
+
+Obtenção de Informações Meteorológicas:
+
+- A API permite recuperar dados meteorológicos atuais, previsões de curto e longo prazo para locais específicos em todo o mundo.
+Endpoint de Requisição:
+
+- As requisições são feitas para o endpoint principal da API, geralmente usando URLs como api.openweathermap.org/data/2.5/weather para informações atuais e api.openweathermap.org/data/2.5/forecast para previsões.
+Parâmetros de Requisição:
+
+- A API aceita diversos parâmetros, como coordenadas geográficas (latitude e longitude), nome da cidade, código do país, e outros, para especificar o local desejado.
+Formato de Resposta:
+
+- As respostas são geralmente fornecidas em formato JSON e contêm uma variedade de informações meteorológicas, como temperatura, umidade, velocidade do vento, descrição do clima, entre outros.
+Unidades de Medida:
+
+- É possível especificar as unidades desejadas para os dados retornados, como Celsius ou Fahrenheit para temperatura, metros por segundo ou quilômetros por hora para velocidade do vento, etc.
+Chaves de API:
+
+- Para utilizar a OpenWeatherMap API, você precisa de uma chave de API (API key), que é um identificador único associado à sua conta. Essa chave é incluída nas suas requisições para autenticação.
+Recursos Adicionais:
+
+- Além das informações meteorológicas básicas, a API oferece recursos adicionais, como dados de UV, dados históricos, mapas meteorológicos, entre outros.
+
 
 ## Dependências Principais 🚀
 
