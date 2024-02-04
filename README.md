@@ -1,6 +1,6 @@
 # OpenWeatherAPI 📱
 
-**OpenWeatherAPI** é um aplicativo em Flutter e Dart que utiliza a API WeatherFactory para criar um aplicativo de previsão do tempo. O aplicativo apresenta uma tela inicial com informações meteorológicas atuais e permite aos usuários acessar detalhes de cada previsão.
+**OpenWeatherAPI** é um aplicativo em Flutter e Dart que utiliza a API OpenWeatherMap para criar um aplicativo de previsão do tempo. O aplicativo apresenta uma tela inicial com informações meteorológicas atuais e permite aos usuários acessar detalhes de cada previsão.
 
 
 ## Dependências Principais 🚀
